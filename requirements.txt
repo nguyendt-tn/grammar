@@ -1,0 +1,13 @@
+gunicorn==20.1.0
+jsonnet
+nltk
+overrides==3.1.0
+flask==1.1.2
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+allennlp==0.8.4
+python-Levenshtein==0.12.0
+transformers==2.2.2
+scikit-learn==0.20.0
+sentencepiece==0.1.91
